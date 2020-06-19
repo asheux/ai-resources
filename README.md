@@ -46,6 +46,7 @@
 - [Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0)
 - [Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
 - [Data Science Essentials](https://www.edx.org/course/data-science-essentials)
+- [Introduction to Artifial Intelligence with Python](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
 ### Udacity
 
@@ -185,3 +186,9 @@
 - [Deep Learning Cookbook: Practical Recipes to Get Started Quickly](https://www.amazon.com/Fundamentals-Deep-Learning-Next-Generation-Intelligence/dp/1491925612/ref=sr_1_1?keywords=Fundamentals+of+Deep+Learning%3A+Designing+Next-Generation+Machine+Intelligence+Algorithms&qid=1574640300&s=books&sr=1-1)
 - [Linear Algebra](https://www.amazon.com/Linear-Algebra-Jim-Hefferon/dp/1944325034/ref=sr_1_1?keywords=Linear+Algebra+Jim+Hefferon&qid=1574640421&s=books&sr=1-1)
 - [Deep Learning(MIT Press Essential knowledge Series)](https://www.amazon.com/Deep-Learning-Press-Essential-Knowledge/dp/0262537559/ref=sr_1_3?keywords=Deep+Learning+Book+Series&qid=1574640456&s=books&sr=1-3)
+
+
+### Articles
+- [Encoding logic in AI using Theorem Proving](https://medium.com/mindpload/encoding-logic-in-ai-using-theorem-proving-f20b3a980f67)
+- [Encoding logic in Artificial Intelligence](https://medium.com/mindpload/knowledge-representation-in-ai-a82c1f753746)
+- [Uninformed search in Artificial Intelligence](https://medium.com/mindpload/uninformed-search-in-artificial-intelligence-2f5b437c4eb7)
